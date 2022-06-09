@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "yolo-dev-dev-controller"
+description: "CloudBees CI configuration bundle for the yolo-dev dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/yolo-dev/dev-controller"
+parent: "base"
